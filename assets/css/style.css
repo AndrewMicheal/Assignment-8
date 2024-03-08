@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+.quote-content {
+    text-align: center;
+    margin-top: 4rem;
+}
+.mb {
+    margin-bottom: 35px;
+}
+.quote-content .quote-content-title-content {
+    font-family: Impact;
+    font-weight: 700;
+    font-size: 80px;
+}
+.quto-content-desc-content {
+    font-size: 40px;
+}
+
+.button .btn-quote {
+    padding: 35px;
+    width: 250px;
+    background-color: blue;
+    color: #fff;
+}
+
+.button .btn-quote:hover {
+    background-color: green;
+}
+
+.quote-text {
+    font-size: 35px;
+}
+
+.quote-author {
+    font-size: 35px;
+}
